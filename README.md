@@ -26,7 +26,9 @@ WHEN I click on the map button option
 THEN I am presented with a map to the nearest movie theater
 
 ## Mock-Up
-https://drive.google.com/file/d/18NwDbHDdSthlrjvF_iggc7b3eCdVxw1A/view?usp=sharing
+![Wireframe Page 1   2](https://user-images.githubusercontent.com/119367684/216157771-c8519996-3e75-4084-8d2d-dd08b3560182.png)
+![Wireframe page 3](https://user-images.githubusercontent.com/119367684/216157609-3cc326cd-b030-47e6-a913-19e97819cb56.png)
+
 
 ## API’s In Use
 Rotten Tomatoes for search results
