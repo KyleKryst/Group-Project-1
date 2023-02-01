@@ -4,7 +4,11 @@ Screen Scoop is a website for users to check movie reviews and find theatres clo
 When the user searches for a particular movie they can view a summary of each movie, including its rating, release date, a brief plot summary, and can read reviews of the movie.
 
 ## User Story
-**AS A** fan of movies **I WANT** to be able to find movie reviews, as well as other information pertaining to the movie, and to be able to find the nearest movie theatre to my location **SO THAT** I can learn more about the movie as well as where to watch it.
+**AS A** fan of movies 
+
+**I WANT** to be able to find movie reviews, as well as other information pertaining to the movie, and to be able to find the nearest movie theatre to my location 
+
+**SO THAT** I can learn more about the movie as well as where to watch it.
 
 ## Acceptance Criteria
 Given a home page with title and description:
