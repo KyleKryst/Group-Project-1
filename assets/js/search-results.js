@@ -27,12 +27,12 @@ function printResults(resultObj) {
   bodyContentEl.innerHTML = 
   '<strong>Release Date:</strong> ' + resultObj.date + '<br/>';
 
-  if (resultObj.quote) {
+  if (resultObj.actors) {
     bodyContentEl.innerHTML +=
-      '<strong>Quotes:</strong> ' + resultObj.quote.join(', ') + '<br/>';
+      '<strong>Actors:</strong> ' + resultObj.actors.join(', ') + '<br/>';
   } else {
     bodyContentEl.innerHTML +=
-      '<strong>Quotes:</strong> No quote for this movie.';
+      '<strong>Actors:</strong> No actors listed for this movie.';
   }
 
   if (resultObj.review) {
