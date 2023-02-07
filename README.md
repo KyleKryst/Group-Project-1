@@ -31,29 +31,26 @@ THEN I am presented with a map to the nearest movie theater
 
 ## Mock-Up
 ![Wireframe Page 1   2](https://user-images.githubusercontent.com/119367684/216163212-b354988a-77ff-438e-9797-ab2281187441.png)
-![Wireframe page 3](https://user-images.githubusercontent.com/119367684/216163225-9caf08b7-d9bb-4a15-8572-bd1994974b80.png)
-
 
 ## API’s In Use
 Rotten Tomatoes for search results
 
-Mapbox or Open Street Map API for close by theatres
-
+Mapbox for close by theatres
 
 ## Breakdown of tasks 
 
-Kyle K: hosting GitHub as well as created project concept.
+Kyle K: Hosting GitHub repository/workflow chart as well as created project concept.
 
-Andrey: wrote user story
+Andrey: Created website name and user story concept.
 
-Suzy: scribe and wireframe (No longer in group)
-
-Kyle E: Keeping it simple 
+Suzy: (No longer in group)
 
 Coding tasks:
 
 JavaScript: Group effort
 
-HTML: Kyle E and Kyle K 
+HTML: Kyle K. 
 
-CSS: Andrey and ? 
+CSS: Andrey
+
+API attachment: Kyle E.
