@@ -1,1 +1,36 @@
+.footer {
+	margin-bottom: 20rem;
+}
+
+.hero {
+	height: 10rem;
+	margin-top: -8px;
+}
+
+.movie-film {
+	height: 300px;
+}
+
+.hero-content {
+	margin-top: -50rem;
+}
+
+#form {
+	color: white;
+}
+
+.footer-card {
+	margin-top: 50rem;
+}
+
+#search {
+	margin-top: 1rem;
+	width: 45rem;
+	color: white;
+}
+
+#center-div {
+	margin-top: -15rem;
+}
+
 
