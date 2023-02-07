@@ -14,7 +14,7 @@ function handleSearchFormSubmit(event) {
     return;
   }
 
-  var queryString = './search-results.html?q=' + searchInputVal;
+  var queryString = './search-results.html?t=' + searchInputVal + '&apikey=75ba03d6';
 
   location.assign(queryString);
 }
