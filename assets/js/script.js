@@ -1,5 +1,9 @@
 var searchFormEl = document.querySelector('#search-form');
 
+$(document).ready(function(){
+  $("#emailModal").modal('show');
+});
+
 function handleSearchFormSubmit(event) {
   event.preventDefault();
 
