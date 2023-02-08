@@ -1,0 +1,32 @@
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+    padding-top: 25px;
+    padding-left: 25px;
+	font-weight: 900;
+	font-style: italic;
+	font-display: bold;
+}
+
+h2 {
+	font-weight: 700;
+	font-style: italic;
+	font-display: bold;
+	padding-left: 25px;
+	padding-top: 25px;
+}
+
+.img-fluid {
+    padding-left: 25px;
+}
+
+#header-results {
+    text-align: center;
+}
+
+.card-footer-1 {
+	text-align: center;
+	padding-top: 790px;
+}
