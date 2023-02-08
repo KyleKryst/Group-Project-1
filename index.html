@@ -11,10 +11,10 @@
 			rel="stylesheet"
 			type="text/css"
 		/>
-
 		<title>Screen Scoop</title>
 	</head>
-	<body>
+  
+   <body onload="getEmail()">
 		<div
 			class="hero min-h-screen"
 			style="background-image: url(images/film\ banner.jpg)"
@@ -23,26 +23,9 @@
 				<h3 class="text-slate-200 font-serif text-center text-4xl">
 					Search for a movie
 				</h3>
-
-				<div class="hero-overlay bg-opacity-0">
-					<input
-						type="text"
-						placeholder="Search"
-						class="input-bordered w-full max-w-xl h-12 rounded-lg search-form pl-4"
-						id="search"
-						autocomplete="off"
-					/>
-					<button class="btn bg-opacity-80 w-32 search-button">Search</button>
-				</div>
-				<section class="flex justify-center">
-					<a href="https://www.google.com/maps" method="get" target="_blank"
-						><button class="btn btn-wide w-full flex mt-4 bg-amber-900 bg-opacity-80">
-							Find a theater near your location
-						</button></a
-					>
+        
 				</section>
 			</div>
-
 			<div class="hero-content text-center text-neutral-content">
 				<div class="max-w-md">
 					<h1 class="text-slate-200 font-serif text-7xl">Screen Scoop</h1>
@@ -65,5 +48,7 @@
 		/>
 
 		<script src="assets/js/script.js"></script>
+    
 	</body>
+  
 </html>

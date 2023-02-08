@@ -33,9 +33,13 @@ THEN I am presented with a map to the nearest movie theater
 ![Wireframe Page 1   2](https://user-images.githubusercontent.com/119367684/216163212-b354988a-77ff-438e-9797-ab2281187441.png)
 
 ## API’s In Use
-Rotten Tomatoes for search results
+OMDB for movie search results
 
-Mapbox for close by theatres
+Mapbox for close-by theatres
+
+## Deployed Website URL
+
+https://kylekryst.github.io/Screen-Scoop/
 
 ## Breakdown of tasks 
 
