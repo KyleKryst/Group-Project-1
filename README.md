@@ -37,6 +37,10 @@ Rotten Tomatoes for search results
 
 Mapbox for close by theatres
 
+## Deployed Website URL
+
+https://kylekryst.github.io/Screen-Scoop/
+
 ## Breakdown of tasks 
 
 Kyle K: Hosting GitHub repository/workflow chart as well as created project concept.
