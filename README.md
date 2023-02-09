@@ -29,13 +29,14 @@ WHEN I click on the map button option
 
 THEN I am presented with a map to the nearest movie theater
 
-## Mock-Up
-![Wireframe Page 1   2](https://user-images.githubusercontent.com/119367684/216163212-b354988a-77ff-438e-9797-ab2281187441.png)
+## Website Screenshots
+![Home Page Modal](https://user-images.githubusercontent.com/119367684/217681045-91c11b97-ed2b-43b3-9112-48424b34169a.png)
+![Home Page Search](https://user-images.githubusercontent.com/119367684/217681053-469985ec-f6fa-427d-b202-2f1b98610285.png)
+![map](https://user-images.githubusercontent.com/119367684/217681058-3734f9f7-349a-4546-ac10-fe342c842666.png)
+![Search Results Page](https://user-images.githubusercontent.com/119367684/217681069-13b5843d-1d7c-4295-b608-e991f19481c3.png)
 
 ## API’s In Use
 OMDB for movie search results
-
-Mapbox for close-by theatres
 
 ## Deployed Website URL
 
@@ -51,10 +52,10 @@ Suzy: (No longer in group)
 
 Coding tasks:
 
-JavaScript: Group effort
+JavaScript: Group effort (Kyle K.)
 
 HTML: Kyle K. 
 
 CSS: Andrey
 
-API attachment: Kyle E.
+API attachment: Kyle E. & Kyle K.
