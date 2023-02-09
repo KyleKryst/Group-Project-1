@@ -4,8 +4,7 @@ var resultContentEl = document.querySelector('#result-content');
 
 function getParams() {
   var searchParamsArr = document.location.search.split('&');
-
-  var query = searchParamsArr[0].split('=').pop();
+  var query = searchParamsArr[0].split('=').pop('&');
 
   searchApi(query);
 }
@@ -82,9 +81,6 @@ function searchApi(query) {
         }
       }
     })
-    .catch(function (error) {
-      console.error(error);
-    });
 }
 
 var searchFormEl = document.querySelector('#search-form');
