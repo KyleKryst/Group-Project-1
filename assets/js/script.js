@@ -4,6 +4,21 @@ $(document).ready(function(){
   $("#emailModal").modal('show');
 });
 
+function subscribe() {
+  var getEmail = document.getElementById('userEmail').value;
+  localStorage.setItem('email', getEmail);
+}
+
+function getEmail() {
+  var storedEmail = localStorage.getItem('email');
+  if(storedEmail) {
+    document.getElementById('userEmail').value = storedEmail;
+  }
+}
+
+onload= getEmail()
+
+
 function handleSearchFormSubmit(event) {
   event.preventDefault();
 
